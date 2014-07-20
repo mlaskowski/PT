@@ -1,3 +1,0 @@
-#przedsiebiorczosc tech
-##zadania
-/bash
